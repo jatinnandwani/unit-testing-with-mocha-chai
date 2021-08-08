@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "user_name": "jatin_nandwani",
+        "user_password": "admin@123",
+        "is_permamnent_employee" : false
+    },
+    {
+        "id": 2,
+        "user_name": "rohit_nandwani",
+        "user_password": "admin@1234",
+        "is_permamnent_employee" : false
+    },
+    {
+        "id": 3,
+        "user_name": "abhi_213",
+        "user_password": "admin@1235",
+        "is_permamnent_employee" : false
+    },
+    {
+        "id": 4,
+        "user_name": "joy",
+        "user_password": "admin@126",
+        "is_permamnent_employee" : false
+    },
+    {
+        "id": 5,
+        "user_name": "kevin",
+        "user_password": "admin@1233",
+        "is_permamnent_employee" : false
+    }
+]
